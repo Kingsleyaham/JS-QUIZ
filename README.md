@@ -2,4 +2,4 @@
 
 A javascript quiz app with only ten questions  
 
-- Solution URL: (https://kingsleyaham.github.io/JS-QUIZ/)
+- Solution URL: (<https://kingsleyaham.github.io/JS-QUIZ/>)
